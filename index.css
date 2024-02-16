@@ -1,0 +1,505 @@
+.about-me,
+.certificate,
+.portofolio {
+  position: absolute;
+  top: 0;
+  right: 436px;
+  display: inline-block;
+  width: 157px;
+  height: 19px;
+}
+.certificate,
+.portofolio {
+  right: 213px;
+  width: 178px;
+}
+.certificate {
+  right: 0;
+  width: 168px;
+}
+.about-me-parent,
+.plugin-file-cover-2-inner {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 593px;
+  height: 19px;
+}
+.plugin-file-cover-2-inner {
+  top: 45px;
+  right: 664px;
+  font-size: var(--font-size-6xl);
+}
+.white-paper-texture-1-icon {
+  position: absolute;
+  width: calc(100% - 454px);
+  top: 197.5px;
+  right: 0;
+  left: 454px;
+  max-width: 100%;
+  overflow: hidden;
+  height: 880.5px;
+  object-fit: cover;
+}
+.coklat-icon {
+  position: absolute;
+  top: 215px;
+  left: calc(50% - 688.5px);
+  width: 1182px;
+  height: 818px;
+  object-fit: cover;
+}
+.background-biru-icon,
+.background-biru-icon1 {
+  position: absolute;
+  top: 147px;
+  left: calc(50% - 1195.5px);
+  width: 1368px;
+  height: 967px;
+  object-fit: cover;
+}
+.background-biru-icon1 {
+  top: 0;
+  left: calc(50% - 813.5px);
+  width: 1081px;
+}
+.aditya-wirayudha,
+.hallo-i-am {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 424px);
+  display: inline-block;
+  width: 187px;
+  height: 49px;
+}
+.aditya-wirayudha {
+  top: 70px;
+  font-size: 140px;
+  font-family: var(--font-baskerville-old-face);
+  width: 848px;
+}
+.hallo-i-am-parent,
+.image-1-icon {
+  position: absolute;
+  top: 449px;
+  left: calc(50% + 324.5px);
+  width: 848px;
+  height: 119px;
+}
+.image-1-icon {
+  top: 341.9px;
+  left: calc(50% - 701.6px);
+  width: 379.9px;
+  height: 380.6px;
+  object-fit: contain;
+}
+.desain-tanpa-judul-7-1 {
+  position: absolute;
+  top: 219px;
+  left: 471px;
+  width: 916px;
+  height: 859px;
+  object-fit: cover;
+}
+.group-child {
+  position: absolute;
+  top: 935px;
+  left: calc(50% - 724.5px);
+  width: 1912px;
+  height: 143px;
+  object-fit: contain;
+}
+.group-item,
+.rectangle-wrapper {
+  position: absolute;
+  top: 0;
+  width: 222px;
+  height: 77px;
+}
+.group-item {
+  left: calc(50% - 111px);
+  border-radius: 30px;
+  background-color: var(--color-gainsboro);
+}
+.rectangle-wrapper {
+  left: calc(50% - 110.5px);
+}
+.download-cv,
+.group-parent {
+  position: absolute;
+  width: 251px;
+}
+.download-cv {
+  top: 13px;
+  left: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 51px;
+}
+.group-parent {
+  top: 813px;
+  left: calc(50% + 309.5px);
+  height: 77px;
+  text-align: center;
+  font-size: var(--font-size-6xl);
+}
+.white-paper-texture-1-parent {
+  position: absolute;
+  width: calc(100% + 471px);
+  top: -83px;
+  right: -8px;
+  left: -463px;
+  height: 1114px;
+  text-align: left;
+  font-size: 35px;
+}
+.image-2-icon {
+  position: absolute;
+  width: calc(100% - 9px);
+  top: 0;
+  right: 9px;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  height: 1493px;
+  object-fit: cover;
+}
+.making-logo-animation {
+  font-size: var(--font-size-21xl);
+}
+.but-bulan,
+.making-logo-animation {
+  margin-block-start: 0;
+  margin-block-end: 7px;
+}
+.universitas-brawijaya {
+  margin: 0;
+}
+.making-logo-animation-container {
+  position: absolute;
+  top: 1281px;
+  left: 927px;
+  letter-spacing: 0.16em;
+  display: inline-block;
+  width: 1004px;
+  height: 138px;
+}
+.screenshot-2024-02-13-224005-1 {
+  position: absolute;
+  top: 267px;
+  left: 967.5px;
+  width: 552.6px;
+  height: 636px;
+}
+.part-team {
+  margin-block-start: 0;
+  margin-block-end: 7px;
+  letter-spacing: 0.16em;
+}
+.universitas-pgri-adibuana {
+  margin: 0;
+  font-size: var(--font-size-11xl);
+  letter-spacing: 0.3em;
+}
+.part-team-front-container {
+  position: absolute;
+  top: 0;
+  left: 707.6px;
+  display: inline-block;
+  width: 958px;
+  height: 268.3px;
+  transform: rotate(90deg);
+  transform-origin: 0 0;
+}
+.screencapture-127-0-0-1-5500-u-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 516px;
+  height: 1169px;
+  object-fit: cover;
+}
+.part-team-front-end-developer-parent {
+  position: absolute;
+  top: 298px;
+  left: 237px;
+  width: 707.6px;
+  height: 1169px;
+  font-size: var(--font-size-31xl);
+}
+.universitas-brawijaya1 {
+  margin: 0;
+  font-size: var(--font-size-xl);
+  letter-spacing: 0.3em;
+}
+.making-3d-logo-container {
+  position: absolute;
+  top: 409px;
+  left: 0;
+  display: inline-block;
+  width: 898.7px;
+  height: 154px;
+}
+.screenshot-356-1 {
+  position: absolute;
+  top: 0;
+  left: 6.6px;
+  border-radius: var(--br-239xl) 0 var(--br-239xl) 0;
+  width: 628.6px;
+  height: 377px;
+  object-fit: cover;
+}
+.making-3d-logo-animation-inaug-parent {
+  position: absolute;
+  top: 298px;
+  left: 1002.5px;
+  width: 898.7px;
+  height: 563px;
+  font-size: var(--font-size-21xl);
+}
+.portofolio2 {
+  position: absolute;
+  width: calc(100% - 444.4px);
+  top: 0;
+  left: 217.6px;
+  display: inline-block;
+  height: 121px;
+}
+.samping-portofolio-icon,
+.samping-portofolio-icon1 {
+  position: absolute;
+  width: calc(100% - 852.5px);
+  top: 18px;
+  right: 852.5px;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  height: 85px;
+  object-fit: contain;
+}
+.samping-portofolio-icon1 {
+  top: 2px;
+  right: 0;
+  left: 852.5px;
+}
+.portofolio-parent {
+  position: absolute;
+  width: calc(100% - 860.9px);
+  top: 100px;
+  right: 462.9px;
+  left: 398px;
+  height: 121px;
+  text-align: center;
+  font-size: var(--font-size-81xl);
+  font-family: var(--font-modern-no-20);
+}
+.image-3-icon,
+.polkadot-bawah-icon {
+  position: absolute;
+  top: 1388px;
+  left: 1471.3px;
+  width: 328.4px;
+  height: 245px;
+  object-fit: cover;
+}
+.image-3-icon {
+  top: 881px;
+  left: 1009.3px;
+  border-radius: 0 var(--br-239xl) 0 var(--br-239xl);
+  width: 670px;
+  height: 375px;
+}
+.portofolio1 {
+  position: absolute;
+  width: calc(100% + 11px);
+  top: 1782px;
+  right: -9px;
+  left: -2px;
+  height: 1633px;
+  text-align: left;
+  font-family: var(--font-kodchasan);
+}
+.about-me2,
+.i-am-a {
+  position: absolute;
+  top: 413px;
+  left: calc(50% - 797.5px);
+  display: inline-block;
+  width: 775px;
+  height: 185px;
+}
+.about-me2 {
+  top: 292px;
+  left: calc(50% - 695.7px);
+  font-size: var(--font-size-81xl);
+  font-family: var(--font-modern-no-20);
+  width: 571px;
+  height: 121px;
+}
+.cv-lamaran-kerja-lulusan-baru {
+  position: absolute;
+  top: 561px;
+  left: calc(50% - 973.5px);
+  width: 418px;
+  height: 422px;
+  object-fit: cover;
+}
+.cv-lamaran-kerja-lulusan-baru1,
+.cv-lamaran-kerja-lulusan-baru2 {
+  position: absolute;
+  top: 85px;
+  left: 994.2px;
+  width: 551px;
+  height: 486px;
+  object-fit: cover;
+}
+.cv-lamaran-kerja-lulusan-baru2 {
+  top: 250px;
+  left: 1128px;
+  width: 819px;
+  height: 587px;
+}
+.icon {
+  position: absolute;
+  top: 0;
+  left: calc(50% + 120.1px);
+  width: 571.3px;
+  height: 887px;
+  object-fit: cover;
+}
+.about-me1,
+.certificate1 {
+  position: absolute;
+  top: 995px;
+  left: calc(50% - 987px);
+  width: 1947px;
+  height: 983px;
+  font-size: var(--font-size-11xl);
+  font-family: var(--font-kodchasan);
+}
+.certificate1 {
+  top: 48px;
+  left: calc(50% - 335px);
+  font-size: var(--font-size-81xl);
+  font-family: var(--font-modern-no-20);
+  display: inline-block;
+  width: 667px;
+  height: 121px;
+}
+.fakultas-ilmu-komputer {
+  font-size: var(--font-size-xl);
+}
+.harapan-1-krisma-container {
+  position: absolute;
+  width: calc(100% - 1237px);
+  top: 663px;
+  left: 0;
+  display: inline-block;
+  height: 77px;
+}
+.juara-2-poster {
+  margin-block-start: 0;
+  margin-block-end: 4px;
+}
+.juara-2-poster-container {
+  position: absolute;
+  width: calc(100% - 1207px);
+  top: 663px;
+  left: 599px;
+  display: inline-block;
+  height: 93px;
+}
+.himpunan-mahasiswa-biologi {
+  margin: 0;
+  font-size: var(--font-size-xl);
+}
+.harapan-1-lkti-container {
+  position: absolute;
+  width: calc(100% - 1207px);
+  top: 663px;
+  left: 1207px;
+  display: inline-block;
+  height: 93px;
+}
+.harapan-1-anak-agung-ngurah-a,
+.img4-1-icon,
+.sertifikat-juara-2-lomba-poste-icon {
+  position: absolute;
+  width: calc(100% - 1249px);
+  top: 245px;
+  right: 1237px;
+  left: 12px;
+  max-width: 100%;
+  overflow: hidden;
+  height: 391px;
+  object-fit: cover;
+}
+.img4-1-icon,
+.sertifikat-juara-2-lomba-poste-icon {
+  right: 629px;
+  left: 620px;
+}
+.img4-1-icon {
+  right: 21px;
+  left: 1228px;
+}
+.cv-lamaran-kerja-lulusan-baru3,
+.cv-lamaran-kerja-lulusan-baru4 {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 491px);
+  width: 156px;
+  height: 169px;
+  object-fit: cover;
+}
+.cv-lamaran-kerja-lulusan-baru4 {
+  left: calc(50% + 332px);
+  object-fit: contain;
+}
+.certificate-parent {
+  position: absolute;
+  top: 3347px;
+  left: calc(50% - 901px);
+  width: 1802px;
+  height: 756px;
+  font-size: var(--font-size-11xl);
+  font-family: var(--font-major-mono-display);
+}
+.footer-child {
+  width: 100%;
+  right: 0;
+  left: 0;
+  background-color: var(--color-gainsboro);
+  height: 65px;
+}
+.copyright-2023,
+.footer,
+.footer-child {
+  position: absolute;
+  bottom: 0;
+}
+.copyright-2023 {
+  width: calc(100% - 1229px);
+  left: 610px;
+  display: inline-block;
+  height: 45px;
+}
+.footer {
+  width: 100%;
+  right: 0;
+  left: 0;
+  height: 65px;
+  font-family: var(--font-laila);
+}
+.plugin-file-cover-2 {
+  width: 100%;
+  position: relative;
+  background-color: #fff;
+  height: 4259px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
